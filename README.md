@@ -1,7 +1,7 @@
 # profile
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate programmer who tries every content available in internet.</h3>
-![image](https://github.com/AYcoder22/AYcoder22/assets/69795479/137005ee-c7f5-498c-ad60-d08739e74dbb)
+![githubprofilegif](https://github.com/AYcoder22/AYcoder22/assets/69795479/a8c40fd3-1336-4735-aacb-f53ae6daec76)
 
 
 <p align="left"> <a href="https://twitter.com/akash2003ay" target="blank"><img src="https://img.shields.io/twitter/follow/akash2003ay?logo=twitter&style=for-the-badge" alt="akash2003ay" /></a> </p>
