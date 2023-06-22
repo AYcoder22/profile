@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/AYcoder22)
+- 👨‍💻 All of my projects are available at [https://github.com/AYcoder22]
 
 - 📫 How to reach me **akash2003ay@gmail.com**
 
