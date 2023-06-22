@@ -1,5 +1,5 @@
 
-![untitled](https://github.com/AYcoder22/AYcoder22/assets/69795479/12921edd-f282-4e47-947f-c7c287a645ce)
+<img align="center" width="350" height="350" src=![untitled](https://github.com/AYcoder22/AYcoder22/assets/69795479/12921edd-f282-4e47-947f-c7c287a645ce)>
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate programmer who tries every content available in internet.</h3>
 
