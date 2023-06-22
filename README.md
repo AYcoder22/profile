@@ -1,4 +1,4 @@
-http://patorjk.com/software/taag/#p=display&h=0&v=0&c=fortran&f=Fire%20Font-k&t=AYcoder22
+
                                                                       
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate programmer who tries every content available in internet.</h3>
