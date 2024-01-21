@@ -4,7 +4,7 @@
 =====
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+![](https://github.com/AYcoder22/AYcoder22/edit/main/Greetings.gif)
 
 </div>
 <p align="center"><a href="https://github.com/AYcoder22"> <img src="https://komarev.com/ghpvc/?username=AYcoder22&style=for-the-badge"> </a></p>
