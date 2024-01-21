@@ -4,6 +4,8 @@
 =====
 <div align="center" width="50">
 
+<img width="400" height="250" src="Greetings.gif" alt="color picker" />
+
 ![](https://github.com/AYcoder22/AYcoder22/blob/main/Greetings.gif)
 
 </div>
