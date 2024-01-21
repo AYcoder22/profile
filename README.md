@@ -26,7 +26,7 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src=![image](https://github.com/AYcoder22/AYcoder22/assets/69795479/67390a1b-e85f-48c7-a8a8-56906d0e1f21) alt="java" </a>
+<a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src=![java-logo-vector](https://github.com/AYcoder22/AYcoder22/assets/69795479/ffb0224d-ef43-44a4-b0fc-7509625d8f24) alt="java" > </a>
 
 </p>
 
