@@ -4,9 +4,7 @@
 =====
 <div align="center" width="50">
 
-<img width="400" height="250" src="Greetings.gif" alt="color picker" />
-
-![](https://github.com/AYcoder22/AYcoder22/blob/main/Greetings.gif)
+<img width="250" height="250" src="Greetings.gif" alt="color picker" />
 
 </div>
 <p align="center"><a href="https://github.com/AYcoder22"> <img src="https://komarev.com/ghpvc/?username=AYcoder22&style=for-the-badge"> </a></p>
