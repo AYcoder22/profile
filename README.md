@@ -4,7 +4,7 @@
 =====
 <div align="center" width="50">
 
-<img width="250" height="250" src="Greetings.gif" alt="color picker" />
+<img width="200" height="200" src="Greetings.gif" alt="color picker" />
 
 </div>
 <p align="center"><a href="https://github.com/AYcoder22"> <img src="https://komarev.com/ghpvc/?username=AYcoder22&style=for-the-badge"> </a></p>
