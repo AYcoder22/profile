@@ -1,7 +1,7 @@
 
                                                                       
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge"> </a>
+<p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge"> </a></p>
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
