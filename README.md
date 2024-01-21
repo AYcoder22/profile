@@ -2,7 +2,7 @@
                                                                       
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 =====
-<img width="200" height="200" src="Greetings.gif" alt="color picker" align="right"/>
+<img width="100" height="100" src="Greetings.gif" alt="color picker" align="right"/>
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
