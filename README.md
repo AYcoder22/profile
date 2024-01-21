@@ -50,3 +50,34 @@ Happy Coding! 😊</p>
 <a href="https://www.linkedin.com/in/akash2003ay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/akash_2003ay" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
+
+-------------------------------------
+<style>
+                .example {
+                    width: 250px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background: #EEEEEE;
+                    color: black;
+                    font-family: sans-serif;
+                    font-size: 25px;
+                    text-align: center;
+                    padding: 15px;
+                }
+
+                .example::after {
+                    content: 'You are using a light theme';
+                }
+
+                @media (prefers-color-scheme: dark) {
+                    .example {
+                        background: #323232;
+                        color: white;
+                    }
+
+                    .example::after {
+                        content: 'Welcome to the dark side';
+                    }
+                }
+            </style>
