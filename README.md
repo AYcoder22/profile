@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge"> </a></p>
 
-
-
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 <h3 align="center">A passionate programmer who tries every content available in internet.</h3>
 
