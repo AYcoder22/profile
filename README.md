@@ -2,9 +2,12 @@
                                                                       
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 =====
-<div align="center" width="50">
+<div>
+<p align="left">You have finally discovered my Github profile. <br>
+Please feel free to clone projects and raise issues if you think something could be better.
 
-<img width="200" height="200" src="Greetings.gif" alt="color picker" />
+Happy Coding! 😊</p>
+<img width="200" height="200" src="Greetings.gif" alt="color picker" align="right"/>
 
 </div>
 <p align="center"><a href="https://github.com/AYcoder22"> <img src="https://komarev.com/ghpvc/?username=AYcoder22&style=for-the-badge"> </a></p>
@@ -45,10 +48,7 @@
 -----------------------------
 
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone projects and raise issues if you think something could be better.
 
-Happy Coding! 😊
 
 <div align="center">
 
@@ -58,11 +58,4 @@ Happy Coding! 😊
 
 <a href="https://www.linkedin.com/in/akash2003ay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/akash_2003ay" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
 </div>
-<div><a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a></div>
-for cpr
-⭐ From [ABSphreak](https://github.com/ABSphreak)
