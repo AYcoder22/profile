@@ -39,23 +39,14 @@ Happy Coding! 😊</p>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src=![java-logo-vector](https://github.com/AYcoder22/AYcoder22/assets/69795479/ffb0224d-ef43-44a4-b0fc-7509625d8f24) alt="java" > </a>
-
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aycoder22&show_icons=true&locale=en" alt="aycoder22" /></p>
 
-
 -----------------------------
 
-
-
-
 <div align="center">
-
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
-
 <i>Follow me:</i><br>
-
 <a href="https://www.linkedin.com/in/akash2003ay" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/akash_2003ay" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
