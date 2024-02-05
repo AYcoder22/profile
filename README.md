@@ -11,13 +11,15 @@ Happy Coding! 😊</p>
 
 </div>
 
-
+<p align="center"><a href="https://github.com/AYcoder22"> <img src="https://komarev.com/ghpvc/?username=AYcoder22&style=for-the-badge"> </a></p>
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 <h3 align="center">A passionate programmer who tries every content available in internet.</h3>
 
 <p align="left"> <a href="https://twitter.com/akash2003ay" target="blank"><img src="https://img.shields.io/twitter/follow/akash2003ay?logo=twitter&style=for-the-badge" alt="akash2003ay" /></a> </p>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
+# 💫 About Me:
 
 - 🌱 I’m currently learning **...**
 
