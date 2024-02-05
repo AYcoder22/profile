@@ -10,7 +10,7 @@ Happy Coding! 😊</p>
 
 
 </div>
-<p align="center"><a href="https://github.com/AYcoder22"> <img src="https://komarev.com/ghpvc/?username=AYcoder22&style=for-the-badge"> </a></p>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 <h3 align="center">A passionate programmer who tries every content available in internet.</h3>
