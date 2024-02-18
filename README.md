@@ -87,10 +87,7 @@ Happy Coding! 😊</p>
 
 ------------------------------------------------------
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
-------------------------------
 
 🗂️ Highlight Projects
 
