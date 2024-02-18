@@ -15,8 +15,6 @@ Happy Coding! 😊</p>
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 <h3 align="center">A passionate programmer who tries every content available in internet.</h3>
 
-<p align="left"> <a href="https://twitter.com/akash2003ay" target="blank"><img src="https://img.shields.io/twitter/follow/akash2003ay?logo=twitter&style=for-the-badge" alt="akash2003ay" /></a> </p>
-
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 # 💫 About Me:
@@ -29,11 +27,6 @@ Happy Coding! 😊</p>
 
 
 - 📄 Know about my experiences [___in progress___](___in progress___)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akash2003ay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash2003ay" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
